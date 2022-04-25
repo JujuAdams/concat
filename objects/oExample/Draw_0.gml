@@ -1,0 +1,1 @@
+draw_text(10, 10, concat("This ", "is ", "an ", "example ", "of ", "a ", "concatenated ", "string ", "made ", "from ", 12, " arguments."));
