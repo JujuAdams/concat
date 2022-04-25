@@ -12,3 +12,5 @@
 
 - ### [Download the .yymps](https://github.com/JujuAdams/concat/releases/)
 - ### Talk about Concat on the [Discord server](https://discord.gg/8krYCqr)
+
+<p align="right">(this is a joke btw)</h1>
