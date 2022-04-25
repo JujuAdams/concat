@@ -1,6 +1,6 @@
 <h1 align="center">Concat 1.0.0</h1>
 
-<p align="center">Concatenation library for GameMaker Studio 2.3.2 by <b>@jujuadams</b></p>
+<p align="center">Minimalist concatenation library for GameMaker Studio 2.3 by <b>@jujuadams</b></p>
 
 <p align="center"><a href="https://github.com/JujuAdams/concat/releases/">Download the .yymps</a></p>
 
